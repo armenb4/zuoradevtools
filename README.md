@@ -4,7 +4,7 @@ Zuora deployment automation is designed to help with the tracking of the source 
 
 # Get started
 To get started, you need two repositories:
-- [zuoradevtools](...): this is the deployment automation utility tool.
+- [zuoradevtools](https://github.com/armenb4/zuoradevtools): this is the deployment automation utility tool.
 - [zuora-vcs](...): this is your repository that tracks Zuora content.
 
 Then, install the required dependencies in your Python virtual environment by running:
