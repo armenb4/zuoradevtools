@@ -1,0 +1,5 @@
+bs4
+boto3
+requests
+packaging
+boto3_type_annotations

@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.ruff_cache/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# IDE settings
+.idea/
+.vscode/
+
+/data
+/.temp
+/temp
+*/temp
+*/.temp
+.DS_Store
+*/.DS_Store
+
+# Environment and settings
+.env
+sm.json
